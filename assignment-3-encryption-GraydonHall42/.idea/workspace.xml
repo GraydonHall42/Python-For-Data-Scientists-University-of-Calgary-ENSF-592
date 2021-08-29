@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="082640b7-4124-4d59-8c63-e0a1b5e37664" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/EncoderDecoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/EncoderDecoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserPrompter.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserPrompter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encryption.py" beforeDir="false" afterPath="$PROJECT_DIR$/encryption.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1smPVk8zY9SFzprHj9qfdoRo8l3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="encryption" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignment-3-encryption-GraydonHall42" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encryption.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.encryption" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="082640b7-4124-4d59-8c63-e0a1b5e37664" name="Default Changelist" comment="" />
+      <created>1621474817176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621474817176</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added userPrompter class">
+      <created>1621568329803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621568329803</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added encoder decoder class. Done rough draft of project">
+      <created>1621578182695</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621578182695</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added commenting and documentation">
+      <created>1621619411858</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621619411858</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added encoding and decoding screenshot">
+      <created>1621619583448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621619583448</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added final documentation/comment updates">
+      <created>1621619954025</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621619954025</updated>
+    </task>
+    <task id="LOCAL-00006" summary="asked for message before cypher in case it mattered for grading rubric">
+      <created>1621888216911</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1621888216911</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added userPrompter class" />
+    <MESSAGE value="added encoder decoder class. Done rough draft of project" />
+    <MESSAGE value="added commenting and documentation" />
+    <MESSAGE value="added encoding and decoding screenshot" />
+    <MESSAGE value="added final documentation/comment updates" />
+    <MESSAGE value="asked for message before cypher in case it mattered for grading rubric" />
+    <option name="LAST_COMMIT_MESSAGE" value="asked for message before cypher in case it mattered for grading rubric" />
+  </component>
+</project>
